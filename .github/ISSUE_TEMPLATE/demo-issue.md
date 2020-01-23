@@ -3,7 +3,7 @@ name: Demo Issue
 about: Basic Template for Issues
 title: ''
 labels: ''
-assignees: ''
+assignees: 'rziemer'
 project: 'Sample Board'
 
 ---
