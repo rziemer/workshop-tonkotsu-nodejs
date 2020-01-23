@@ -4,7 +4,7 @@ about: Basic Template for Issues
 title: ''
 labels: ''
 assignees: ''
-projects: 'Sample Board'
+projects: 'rziemer/workshop-tonkotsu-nodejs/Sample Board'
 
 ---
 
